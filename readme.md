@@ -2,7 +2,7 @@
 
 - This project is a color changer app.
 
-![Name Conversion](./Image/colorchanger.JPG)
+![Color Changer](./Image/colorchanger.JPG)
 
 [Netlify Link](https://color-changer-harshcodes.netlify.app/)
 
